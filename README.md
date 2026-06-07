@@ -67,4 +67,17 @@ The Smart Analytics Tool simplifies exploratory data analysis by providing autom
 
 Author
 Internship Project – Smart Analytics Tool
+## Instructions to Run the Project
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the application
+
+python -m streamlit run app.py
+
+3. Open in browser
+
+http://localhost:8501
 
